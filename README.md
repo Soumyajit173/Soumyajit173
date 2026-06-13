@@ -131,7 +131,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumyajit173&theme=radical&no-frame=true&row=1&column=4" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Soumyajit173&theme=algolia&no-frame=true" />
 </p>
 
 ---
