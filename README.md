@@ -159,7 +159,7 @@
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/soumyajit-nandi-795686290/" target="_blank">
+  <a href="https://www.linkedin.com/in/soumyajit-nandi17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Soumyajit173" target="_blank">
